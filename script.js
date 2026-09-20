@@ -36,7 +36,7 @@ const wishlist = [
     number: 4,
     name: 'Rosebud Trio Lip Balm Assortment, 0.5 Ounce',
     price: 'See Amazon for price',
-    category: 'Beauty',
+    category: 'Beauty & Fragrance',
     note: 'I love all Smith’s lip balms! This trio is just one lovely option.',
     image: 'assets/rosebud-trio.jpg',
     link: 'https://www.amazon.com/dp/B01N0DVSRE'
@@ -137,7 +137,7 @@ const wishlist = [
     number: 27,
     name: 'Tatcha The Kissu Lip Mask',
     price: '$29.00',
-    category: 'Beauty',
+    category: 'Beauty & Fragrance',
     note: 'I love the Kissu Lip Mask! Tinted or untinted versions would both make me happy. $29 is the linked option’s price.',
     image: 'assets/tatcha-kissu-lip-mask.jpg',
     link: 'https://tatcha.com/products/the-kissu-lip-mask'
@@ -384,6 +384,15 @@ const wishlist = [
     note: 'For colorful drawings and little art projects! The pictured Premier set is an example—pick a set you think I’d love.',
     image: 'assets/prismacolor-pencils.jpg',
     link: 'https://www.amazon.com/s?k=prismacolor+colored+pencils'
+  },
+  {
+    number: 57,
+    name: 'Josie Maran Whipped Argan Oil Body Butter',
+    price: '$36.00',
+    category: 'Beauty & Fragrance',
+    note: 'A tried-and-loved favorite—I’ve used this so many times! I love Vanilla Vibezzz, Topless Tangerine, and Golden Hour, and I’d love to try new scents too.',
+    image: 'https://www.josiemaran.com/cdn/shop/files/vanilla-vibezzz-body-butter-jar-02.jpg?v=1753375264&width=800',
+    link: 'https://www.josiemaran.com/products/whipped-argan-oil-body-butter-vanilla-vibezzz'
   }
 ];
 // ✦ EDIT YOUR 2026 ADVENT CALENDAR HERE ✦
@@ -396,7 +405,7 @@ const adventCalendar2026 = [
     number: 1,
     name: 'Space NK Beauty Advent Calendar',
     price: '€316',
-    category: 'Beauty',
+    category: 'Beauty & Fragrance',
     note: 'Ships to Spain only. A little beauty magic for December.',
     image: 'https://www.spacenk.com/dw/image/v2/ABCE_PRD/on/demandware.static/-/Sites-spacenkmastercatalog/default/dwa32382e6/products/NK_MULTI/UK200063764_NK_MULTI.png?sh=582&sw=582',
     link: 'https://www.spacenk.com/uk/gifts/beauty-advent-calendars/beauty-advent-calendar-MUK200063764.html'
@@ -405,7 +414,7 @@ const adventCalendar2026 = [
     number: 2,
     name: 'Lush Advent Calendar',
     price: '$330',
-    category: 'Beauty',
+    category: 'Beauty & Fragrance',
     note: 'For a December full of cozy bath-time treats.',
     image: 'https://www.lush.com/cdn-cgi/image/width%3D3840%2Cf%3Dauto/https%3A//unicorn.lush.com/media/thumbnails/products/Christmas-2026-Lush-Advent-Calendar_hero_01_1_fce29673_thumbnail_4096.jpg',
     link: 'https://www.lush.com/us/en_us/p/lush-advent-calendar-na'
@@ -414,7 +423,7 @@ const adventCalendar2026 = [
     number: 3,
     name: 'Selfridges Beauty Advent Calendar 2026',
     price: '$305.00',
-    category: 'Beauty',
+    category: 'Beauty & Fragrance',
     note: 'Worth £1,278.',
     image: 'assets/selfridges-advent.avif',
     link: 'https://www.selfridges.com/US/en/product/selfridges-beauty-advent-calendar-2026-worth-1278_R04694469/'
@@ -432,7 +441,7 @@ const adventCalendar2026 = [
     number: 5,
     name: 'Anthropologie 24 Days of Beauty Advent Calendar',
     price: '$98.00',
-    category: 'Beauty',
+    category: 'Beauty & Fragrance',
     note: 'A little beauty surprise for every day.',
     image: 'https://images.urbndata.com/is/image/Anthropologie/113122048_000_g?fit=constrain&qlt=80&wid=640',
     link: 'https://www.anthropologie.com/shop/the-24-days-of-beauty-advent-calendar2'
@@ -469,7 +478,7 @@ const giftCards = [
 // ✦ END OF EDITABLE COLLECTIONS ✦
 let activeCollection = 'wishlist';
 
-const categories = ['All', 'Little Things', 'Cozy & Wellness', 'Stationery & Art', 'Beauty', 'Books & Curiosities', 'Jewelry', 'Big Wishes'];
+const categories = ['All', 'Little Things', 'Cozy & Wellness', 'Stationery & Art', 'Beauty & Fragrance', 'Books & Curiosities', 'Jewelry', 'Big Wishes'];
 const doorStyles = ['cabinet-door', 'window', 'book', 'parcel', 'window', 'drawer'];
 const cabinet = document.querySelector('#cabinet');
 const filters = document.querySelector('#filters');
