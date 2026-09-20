@@ -393,7 +393,25 @@ const wishlist = [
     note: 'A tried-and-loved favorite—I’ve used this so many times! I love Vanilla Vibezzz, Topless Tangerine, and Golden Hour, and I’d love to try new scents too.',
     image: 'https://www.josiemaran.com/cdn/shop/files/vanilla-vibezzz-body-butter-jar-02.jpg?v=1753375264&width=800',
     link: 'https://www.josiemaran.com/products/whipped-argan-oil-body-butter-vanilla-vibezzz'
-  }
+  },
+{
+  "number": 58,
+  "name": "Crunchy Mango Squishy",
+  "price": "See Amazon for price",
+  "category": "Little Things",
+  "note": "A crunchy mango squishy for a fun little sensory treat.",
+  "image": "https://m.media-amazon.com/images/I/81Mp6ATWwCL._AC_SX679_.jpg",
+  "link": "https://www.amazon.com/dp/B0HGQZP6BN"
+},
+{
+  "number": 59,
+  "name": "Disney Ears",
+  "price": "Depends on the style",
+  "category": "Books & Curiosities",
+  "note": "Pick a pair of Disney ears you think I’d love! The photo is just an example; the link has lots of styles to choose from.",
+  "image": "https://cdn-ssl.s7.shopdisney.com/is/image/DisneyShopping/4503055210690?fmt=jpeg&hei=608&qlt=90&wid=608",
+  "link": "https://www.disneystore.com/accessories/adults/ear-hats-headbands/"
+}
 ];
 // ✦ EDIT YOUR 2026 ADVENT CALENDAR HERE ✦
 // Each entry is a calendar wish or surprise. Numbers are internal IDs only.
@@ -470,7 +488,9 @@ const adventCalendar2026 = [
 // Example (replace the example URL with the store's actual gift card page):
 // { name: 'Store name', amount: 'Any amount', note: 'For my next little treat.', link: 'https://example.com/gift-card' }
 const giftCards = [
-  { name: 'Reading Cinemas', amount: 'Any amount', note: 'For a little trip to the movies.', link: 'https://readingcinemas.com/undefined/gift-cards' },
+  { name: 'Sephora', amount: 'Any amount', note: 'For a beauty or fragrance treat.', link: 'https://www.sephora.com/beauty/giftcards' },
+  { name: 'AMC Theatres', amount: 'Any amount', note: 'For a trip to the movies.', link: 'https://www.amctheatres.com/gift-cards' },
+  { name: 'Reading Cinemas', amount: 'Any amount', note: 'For a little trip to the movies.', link: 'https://readingcinemas.com/manville/giftcards' },
   { name: 'Ulta Beauty', amount: 'Any amount', note: 'For my next beauty treat.', link: 'https://www.ulta.com/guestservices/gift-cards' },
   { name: 'Amazon', amount: 'Any amount', note: 'For something on my ever-growing list.', link: 'https://www.amazon.com/gift-cards/b?node=2238192011' },
   { name: 'Free People', amount: 'Any amount', note: 'For a little something from Free People.', link: 'https://www.freepeople.com/fp-gift-cards/' }
