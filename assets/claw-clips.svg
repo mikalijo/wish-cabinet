@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="600" height="600" rx="32" fill="#f4eee5"/>
+  <ellipse cx="300" cy="452" rx="178" ry="24" fill="#e4dfd2"/>
+  <g stroke="#85786f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="rotate(-15 300 280)">
+      <path d="M144 267 Q142 191 214 190 H386 Q458 191 456 267 L444 316 H420 V280 H393 V328 H368 V280 H339 V334 H312 V280 H285 V334 H258 V280 H231 V328 H206 V280 H179 V316 H155Z" fill="#ddb6b7"/>
+      <path d="M174 245 Q181 213 215 214 H385 Q419 213 426 245" fill="none" stroke="#f4d8d5"/>
+      <circle cx="300" cy="239" r="13" fill="#e7cd91"/>
+    </g>
+    <g transform="translate(72 148) rotate(12 260 230) scale(.8)">
+      <path d="M144 267 Q142 191 214 190 H386 Q458 191 456 267 L444 316 H420 V280 H393 V328 H368 V280 H339 V334 H312 V280 H285 V334 H258 V280 H231 V328 H206 V280 H179 V316 H155Z" fill="#b9c8b3"/>
+      <path d="M174 245 Q181 213 215 214 H385 Q419 213 426 245" fill="none" stroke="#e1e7d8"/>
+      <circle cx="300" cy="239" r="13" fill="#e7cd91"/>
+    </g>
+  </g>
+  <g fill="#d4b97e"><path d="m455 130 7 20 20 7-20 7-7 20-7-20-20-7 20-7Z"/><circle cx="130" cy="369" r="5"/><circle cx="193" cy="142" r="5"/></g>
+</svg>

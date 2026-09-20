@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<defs><pattern id="lights" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="21" cy="21" r="12" fill="#e79899"/><circle cx="21" cy="21" r="7" fill="#c95d69"/><circle cx="19" cy="19" r="3" fill="#ffd6c3"/></pattern></defs>
+<rect width="600" height="600" rx="30" fill="#f4eee5"/>
+<ellipse cx="300" cy="516" rx="127" ry="17" fill="#e4dad6"/>
+<path d="M280 437V493H224M320 437V493H376" fill="none" stroke="#aaa8a1" stroke-width="13" stroke-linecap="round"/>
+<rect x="185" y="80" width="230" height="375" rx="23" fill="#e3dfd8" stroke="#96928c" stroke-width="6"/>
+<rect x="201" y="105" width="198" height="317" rx="12" fill="#6c5759"/>
+<rect x="216" y="117" width="168" height="294" rx="8" fill="url(#lights)"/>
+<circle cx="300" cy="437" r="5" fill="#a7bca3"/>
+</svg>

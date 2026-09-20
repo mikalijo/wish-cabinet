@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f8f1e9">
+  <meta name="description" content="A little cabinet of things Mika would be very happy to find under a tree. Browse a collection of little wishes.">
+  <title>Mika’s Magic Wish Cabinet</title>
+  <link rel="icon" href="assets/key.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#cabinet">Skip to the wishes</a>
+  <div class="page-frame">
+    <header class="masthead"><a href="./" aria-label="Wish Cabinet home"><span aria-hidden="true">✧</span> A SMALL COLLECTION OF WISHES</a><span class="edition">VOL. 01 &nbsp; · &nbsp; ALWAYS GROWING</span></header>
+    <main>
+      <section class="introduction" aria-labelledby="page-title">
+        <div class="flourish bunny-flourish" aria-hidden="true"><img src="assets/bunny.svg" alt="" width="64" height="64"><span>☾ ✦ ☽</span><img src="assets/bunny.svg" alt="" width="64" height="64"></div>
+        <p class="eyebrow">A LITTLE CABINET OF WISHES</p>
+        <h1 id="page-title">Mika’s Magic<br><em>Wish Cabinet</em></h1>
+        <p class="subtitle">things I would be very happy to find under a tree</p>
+        <p class="invitation">A few lovely things, all here for a little look.</p>
+        <span class="hero-star star-one" aria-hidden="true">✧</span><span class="hero-star star-two" aria-hidden="true">✶</span>
+      </section>
+      <div class="gift-card-shortcut"><a href="#gift-cards-section" id="gift-card-jump"><span aria-hidden="true">✉</span> Looking for gift cards? <strong>Jump here ↓</strong></a></div>
+      <div class="collection-tabs" role="tablist" aria-label="Choose a collection">
+        <button type="button" id="wishlist-tab" role="tab" aria-selected="true" aria-controls="collection-panel">Wish Cabinet</button>
+        <button type="button" id="advent-tab" role="tab" aria-selected="false" aria-controls="collection-panel" tabindex="-1">2026 Advent Calendar</button>
+      </div>
+      <div id="collection-panel" role="tabpanel" aria-labelledby="wishlist-tab">
+      <p id="advent-intro" class="advent-intro" hidden>A collection of advent wishes and little moments of magic.<br>Browse a few lovely ways to count down to the holidays.</p>
+      <nav class="filters" aria-label="Filter wishes by category" id="filters"></nav>
+      <div class="sort-controls">
+        <label for="price-sort">Arrange the cabinet</label>
+        <select id="price-sort" aria-describedby="sort-note">
+          <option value="original">Original order</option>
+          <option value="ascending">Price: low to high</option>
+          <option value="descending">Price: high to low</option>
+        </select>
+        <small id="sort-note">Uses displayed amounts, without currency conversion. Unpriced wishes come last.</small>
+      </div>
+      <section class="cabinet-section" aria-label="The wish cabinet">
+        <div class="cabinet-caption"><span><span aria-hidden="true">⌘</span> LITTLE WISHES, LOVELY POSSIBILITIES</span><span id="wish-count" role="status"></span></div>
+        <div class="cabinet-roof" aria-hidden="true"><span>✦</span><span class="cabinet-label">THE WISH CABINET</span><span>✦</span></div>
+        <div class="cabinet" id="cabinet" tabindex="-1"></div>
+        <div class="cabinet-base" aria-hidden="true"></div>
+        <p class="cabinet-hint"><img src="assets/key.svg" alt="" width="25" height="25"> A little collection of lovely possibilities.</p>
+        <p class="link-note">If any of these links fail to work, please let me know.</p>
+        <noscript><p>Please enable JavaScript to view the wish cabinet.</p></noscript>
+      </section>
+      <section class="gift-cards-section" id="gift-cards-section" aria-labelledby="gift-cards-title">
+        <p class="eyebrow">A LITTLE POSSIBILITY, TUCKED IN AN ENVELOPE</p>
+        <h2 id="gift-cards-title" tabindex="-1">Gift Cards</h2>
+        <p class="gift-cards-intro">For choosing a little something when the moment is right.</p>
+        <div class="gift-cards-grid" id="gift-cards-grid"></div>
+        <p class="gift-cards-empty" id="gift-cards-empty"><span aria-hidden="true">✉</span> Favorite places coming soon.</p>
+      </section>
+      </div>
+      <aside class="closing-note"><img class="footer-bunny" src="assets/bunny.svg" alt="" width="62" height="62"><p>Some practical. Some peculiar.<br>All very <em>me.</em></p><img class="footer-bunny" src="assets/bunny.svg" alt="" width="62" height="62"></aside>
+    </main>
+    <footer><p>made by Mika ♡</p><small>please do not feel obligated to buy me anything</small></footer>
+  </div>
+</body>
+</html>
