@@ -447,6 +447,15 @@ const wishlist = [
   "note": "I’ve always wanted to try Black Honey, but never have! This is the shade I’d love to try.",
   "image": "https://www.clinique.com/media/export/cms/products/1200x1500/cl_sku_635906_1200x1500_0.png",
   "link": "https://www.clinique.com/product/1605/4772/makeup/lipsticks/almost-lipstick-in-black-honey-pink-honey-and-nude-honey?shade=Black_Honey"
+},
+{
+  "number": 64,
+  "name": "Being Frenshe hair & personal care",
+  "price": "Depends on the product",
+  "category": "Beauty & Fragrance",
+  "note": "I love Being Frenshe’s hair care and personal care products! Pick something you think I’d enjoy—the photo is just an example.",
+  "image": "https://target.scene7.com/is/image/Target/GUEST_5c70c6e6-4054-4d0b-9ac5-baf39fe3a6fa?fmt=pjpeg&qlt=80&wid=720",
+  "link": "https://www.target.com/b/being-frenshe/-/N-q643leyonhf"
 }
 ];
 // ✦ EDIT YOUR 2026 ADVENT CALENDAR HERE ✦
