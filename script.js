@@ -411,6 +411,42 @@ const wishlist = [
   "note": "Pick a pair of Disney ears you think I’d love! The photo is just an example; the link has lots of styles to choose from.",
   "image": "https://cdn-ssl.s7.shopdisney.com/is/image/DisneyShopping/4503055210690?fmt=jpeg&hei=608&qlt=90&wid=608",
   "link": "https://www.disneystore.com/accessories/adults/ear-hats-headbands/"
+},
+{
+  "number": 60,
+  "name": "Dollhouse kit",
+  "price": "Depends on the kit",
+  "category": "Stationery & Art",
+  "note": "A little world to build! Pick a dollhouse or miniature house kit you think I’d love. The photo is just an example.",
+  "image": "https://www.robotimeonline.com/cdn/shop/files/76fcec03cb1aa3e3d10407da87f18c27.jpg?v=1723703864&width=800",
+  "link": "https://www.amazon.com/s?k=dollhouse+kit"
+},
+{
+  "number": 61,
+  "name": "La Mer The Moisturizing Fresh Cream",
+  "price": "$390.00",
+  "category": "Beauty & Fragrance",
+  "note": "The Moisturizing Fresh Cream from La Mer. Shown price is for 2 oz.; smaller sizes are 0.5 oz. for $100 or 1 oz. for $200.",
+  "image": "https://www.cremedelamer.com/media/export/cms/products/responsive/lm_sku_4J6W01_4x5_0.png?height=750&width=600",
+  "link": "https://www.cremedelamer.com/product/5834/124395/face/moisturizers/the-moisturizing-fresh-cream#/sku/181921"
+},
+{
+  "number": 62,
+  "name": "POP MART figures & blind boxes",
+  "price": "Depends on the figure or box",
+  "category": "Books & Curiosities",
+  "note": "Hirono is my favorite, but I love all the characters! Pick a figure or blind box you think I’d love. The Hirono photo is just an example.",
+  "image": "https://global-static.popmart.com/globalAdmin/1754633742065____manacle____.png",
+  "link": "https://www.popmart.com/us"
+},
+{
+  "number": 63,
+  "name": "Clinique Almost Lipstick — Black Honey",
+  "price": "$25.00",
+  "category": "Beauty & Fragrance",
+  "note": "I’ve always wanted to try Black Honey, but never have! This is the shade I’d love to try.",
+  "image": "https://www.clinique.com/media/export/cms/products/1200x1500/cl_sku_635906_1200x1500_0.png",
+  "link": "https://www.clinique.com/product/1605/4772/makeup/lipsticks/almost-lipstick-in-black-honey-pink-honey-and-nude-honey?shade=Black_Honey"
 }
 ];
 // ✦ EDIT YOUR 2026 ADVENT CALENDAR HERE ✦
