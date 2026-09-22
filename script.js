@@ -456,6 +456,24 @@ const wishlist = [
   "note": "I love Being Frenshe’s hair care and personal care products! Pick something you think I’d enjoy—the photo is just an example.",
   "image": "https://target.scene7.com/is/image/Target/GUEST_5c70c6e6-4054-4d0b-9ac5-baf39fe3a6fa?fmt=pjpeg&qlt=80&wid=720",
   "link": "https://www.target.com/b/being-frenshe/-/N-q643leyonhf"
+},
+{
+  "number": 65,
+  "name": "Lemax Spooky Town",
+  "price": "Depends on the piece",
+  "category": "Big Wishes",
+  "note": "A spooky little village! Pick a Lemax Spooky Town piece you think I’d love. The haunted house photo is just an example.",
+  "image": "https://exycwwgvps8.exactdn.com/wp-content/uploads/2025/12/056098def5db3-f39b-400b-a26a-c4272f2d3b4b.jpg",
+  "link": "https://www.amazon.com/s?k=lemax+spooky+town+sale"
+},
+{
+  "number": 66,
+  "name": "Bucilla project kits",
+  "price": "Depends on the kit",
+  "category": "Stationery & Art",
+  "note": "I’d love a Bucilla project to make! I’m interested in all seasons, including autumn and winter projects like the pictured stocking. Pick a kit you think I’d enjoy—the photo is just an example.",
+  "image": "https://plaidonline.com/media/catalog/product/1/-/1-bu_89742e_north_pole_this_way_stocking.jpg?width=650&height=650&fit=bounds",
+  "link": "https://www.amazon.com/stores/Bucilla/page/D9E07B08-F25B-45F5-8B1D-528FE556E5B2"
 }
 ];
 // ✦ EDIT YOUR 2026 ADVENT CALENDAR HERE ✦
